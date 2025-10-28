@@ -1,0 +1,2 @@
+ficheiro apenas visivel
+na branch azul
